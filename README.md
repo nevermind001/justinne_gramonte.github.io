@@ -23,3 +23,18 @@ Practical PCB Design and Implementation Skills
 
 ## A Visual Showcase
 The following images provide a visual representation of my previous work in PCB design and fabrication.
+
+#Drill 1.0 LED IO Board
+| <img src='sch_picts/eagleUp_LED-IO_board_top.png' width='300' /> | <img src='sch_picts/eagleUp_LED-IO_board_bottom.png' width='300' /> |
+#Drill 2.0 AVR Breakout Board
+| <img src='sch_picts/eagleUp_DRILL2.0_board_top.png' width='300' /> | <img src='sch_picts/eagleUp_DRILL2.0_board_bottom.png' width='300' /> |
+#Drill 3.0 8x8 LED Marix
+| <img src='sch_picts/eagleUp_DRILL3.0_board_top.png' width='300' /> | <img src='sch_picts/eagleUp_DRILL3.0_board_bottom.png' width='300' /> |
+#Drill 4.0 7-Segment Display
+| <img src='sch_picts/eagleUp_DRILL4.0_board_top.png' width='300' /> | <img src='sch_picts/eagleUp_DRILL4.0_board_bottom.png' width='300' /> |
+#Drill 5.0 LCD Board
+| <img src='sch_picts/eagleUp_practice-2_board_top.png' width='300' /> | <img src='sch_picts/eagleUp_practice-2_board_bottom.png' width='300' /> |
+#Drill 6.0 2 Channel Motor Driver
+| <img src='sch_picts/eagleUp_DRILL6.0_board_top.png' width='300' /> | <img src='sch_picts/eagleUp_DRILL6.0_board_bottom.png' width='300' /> |
+#Final Project Power Supply
+| <img src='sch_picts/eagleUp_power supply_board_top.png' width='300' /> | <img src='sch_picts/eagleUp_power supply_board_bottom.png' width='300' /> |
