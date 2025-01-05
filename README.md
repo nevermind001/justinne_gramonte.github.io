@@ -7,11 +7,11 @@ I am a Computer Engineering graduate with a proven track record in PCB design an
 ## Projects
 The Portfolio includes pictures of my projects that I have submitted to our schools as my activities:
 -Microcontroller AVR Board
--LED IO Board
--8x8 LED Matrix
--LCD Display
--Motor Controller
--SAP-1 Circuit Blocks
+-LED IO Board<br />
+-8x8 LED Matrix<br />
+-LCD Display<br />
+-Motor Controller<br />
+-SAP-1 Circuit Blocks<br />
 
 ## Skills
 Practical PCB Design and Implementation Skills
