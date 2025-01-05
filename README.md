@@ -16,10 +16,10 @@ The Portfolio includes pictures of my projects that I have submitted to our scho
 ## Skills
 Practical PCB Design and Implementation Skills
 
--PCB Design and Routing: Utilizing Eagle CAD for schematic capture and layout, adhering to best practices in PCB routing.
--Component Selection and Placement: Expertise in selecting appropriate components and connectors for optimal performance, and strategic component placement for efficient signal routing and thermal management.
--Footprint Creation: Proficiency in creating custom footprints for unique or non-standard components.
--PCB Assembly: Hands-on experience in soldering and assembling PCBs, including both SMT and through-hole techniques.
+-PCB Design and Routing: Utilizing Eagle CAD for schematic capture and layout, adhering to best practices in PCB routing.<br />
+-Component Selection and Placement: Expertise in selecting appropriate components and connectors for optimal performance, and strategic component placement for efficient signal routing and thermal management.<br />
+-Footprint Creation: Proficiency in creating custom footprints for unique or non-standard components.<br />
+-PCB Assembly: Hands-on experience in soldering and assembling PCBs, including both SMT and through-hole techniques.<br />
 
 ## A Visual Showcase
 The following images provide a visual representation of my previous work in PCB design and fabrication.
